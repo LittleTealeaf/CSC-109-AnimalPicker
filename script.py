@@ -5,3 +5,5 @@ if val== 'cat':
     print('CAT ASCII ART HERE')
 elif val == 'dog':
     print('DOG ASCII ART HERE')
+else:
+    print('Invalid Response')
